@@ -18,10 +18,6 @@ The following **optional** features are implemented:
 
 * [ ] A search bar that helps the user search for a specific game
 
-## Video Walkthrough
-
-<img src='https://imgur.com/a/YthOTbp' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-Used imgur
 
 ## Notes
 
