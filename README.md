@@ -18,14 +18,6 @@ The following **optional** features are implemented:
 
 * [ ] A search bar that helps the user search for a specific game
 
-## Video Walkthrough
-
-Here's a walkthrough of implemented features:
-
-<video src='https://www.loom.com/share/dbc98ad2dec242b1871d76e711855195?sid=4af0aa17-0d2e-406f-890e-bccc7457c941' title='Video Walkthrough' width='' alt='Video Walkthrough'></video>
-
-Video created with Loom  
-
 
 ## Notes
 
